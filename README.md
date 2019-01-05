@@ -4,11 +4,8 @@ Práctica 2: Limpieza y validación de los datos
 ## Autora
 Diana Cózar Salas
 
-## Titulo dataset
-Descripción del dataset
-
-## Dataset
-De donde se ha obtenido el dataset (url, etc)
-
-## Licencia
-Especificar licencia de uso
+## Ficheros
+- RWQ_code.R -> código R de la práctica
+- RWQ_documentation.pdf -> fichero pdf con las respuestas de la práctica
+- winequality-red.csv -> fichero con los datos originales
+- winequality-red-out.csv -> fichero con el tratamiento de datos aplicado (outlayers y reducción de dimensionalidad mediante PCA)
